@@ -56,9 +56,16 @@ wazuh-soc-lab/
     └── images/
 ```
 
-Screenshots
+## Screenshots
 
-## De screenshots die als bewijs dienen voor elk deel staan niet in deze hoofdmap, maar in de images/-map van het bijbehorende deel. Bijvoorbeeld: de screenshots van Part 1 vind je op het pad part1-server-setup/images/, die van Part 4 op part4-dashboard/images/, enzovoort. Open de README van het gewenste deel om de screenshots direct bij de uitleg te zien.
+De screenshots die als bewijs dienen voor elk deel staan niet in deze hoofdmap.
+
+Ze staan in de `images/`-map van het bijbehorende deel. De screenshots van Part 1 vind je bijvoorbeeld op het pad `part1-server-setup/images/`, die van Part 4 op `part4-dashboard/images/`, enzovoort.
+
+Open de README van het gewenste deel om de screenshots direct bij de uitleg te zien.
+
+---
 
 **Status:** Afgerond — Part 1 t/m 7 uitgewerkt. Challenge compleet.
+
 **Auteur:** Asmerom — Junior IT System Engineer & Support Technician.
