@@ -55,5 +55,5 @@ Op de Windows-host is het Guest-account — dat standaard uitgeschakeld hoort te
 
 ## Screenshots
 
-![Tijdlijn van de events in Discover](images/MYDFR-Asmerom-Alert.png)
-![MYDFIR Dashboard met relevante events](images/MYDFR-Asmerom-Dashboard.png)
+![Tijdlijn van de events in Discover](images/MYDFR-Asmerom Alert.png)
+![MYDFIR Dashboard met relevante events](images/MYDFR-Asmerom Dashboard.png)
